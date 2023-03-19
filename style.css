@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Spectral', serif;
+  text-align: center;
+
+  background:url(https://i.ibb.co/7zG3J3t/image-uva.jpg) no-repeat center/cover;
+  
+  height: 100vh;
+}
+
+h1 {
+  font-family: 'Beth Ellen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 120px;
+
+  padding-top: 275px;
+
+  color: #EBF1FB;
+}
+
+h1 span {
+  color: #5EEAD4;
+}
+
+p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #EBF1FB;
+  margin: 4px 0 72px;
+}
+
+a {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+
+  color: #EBF1FB;
+
+  padding: 16px 32px;
+}
+
+a:hover, .second {
+  background: #5EEAD4;
+  border-radius: 8px;
+
+  color: #0B0C0E;
+  text-decoration: 0;
+}
