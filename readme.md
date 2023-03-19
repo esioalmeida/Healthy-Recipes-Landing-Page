@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Eating-For-Living/)
+- [Visite o projeto online](https://esio1998.github.io/Desafio-2-Healthy-Recipes-Landing-Page/)
 
 <br/>
 
